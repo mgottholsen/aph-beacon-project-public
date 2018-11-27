@@ -1,5 +1,6 @@
 ## American Printing House for the Blind: Indoor Explorer
 
+View the GIS data here: https://data.louisvilleky.gov/dataset/bluetooth-beacon-locations
 
 ### Statement of Problem
 The blind and visually impaired population have difficulty utilizing amenities, locating points of interest and navigating areas designed for sighted individuals. A city’s built environment is difficult to access and navigate for any individual that does not possess the same sensory inputs as the majority population. Accomplishing tasks that are trivial for a sighted individual become formidable, when visual and directional cues such as signage or terrain information are unavailable to the citizen.
